@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\samue\\RiderProjects\\PirateApp\\PirateApp\\PirateApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\samue\\RiderProjects\\PirateApp\\PirateApp\\PirateApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samue\\RiderProjects\\PirateApp\\PirateApp\\PirateApp.csproj",
+        "projectName": "PirateApp",
+        "projectPath": "C:\\Users\\samue\\RiderProjects\\PirateApp\\PirateApp\\PirateApp.csproj",
+        "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samue\\RiderProjects\\PirateApp\\PirateApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\samue\\.dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
