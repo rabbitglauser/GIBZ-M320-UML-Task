@@ -1,0 +1,5 @@
+C:\Users\samue\RiderProjects\PirateApp\PirateApp\obj\Debug\net8.0\PirateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\RiderProjects\PirateApp\PirateApp\obj\Debug\net8.0\PirateApp.AssemblyInfoInputs.cache
+C:\Users\samue\RiderProjects\PirateApp\PirateApp\obj\Debug\net8.0\PirateApp.AssemblyInfo.cs
+C:\Users\samue\RiderProjects\PirateApp\PirateApp\obj\Debug\net8.0\PirateApp.csproj.CoreCompileInputs.cache
+C:\Users\samue\RiderProjects\PirateApp\PirateApp\obj\Debug\net8.0\PirateApp.sourcelink.json
