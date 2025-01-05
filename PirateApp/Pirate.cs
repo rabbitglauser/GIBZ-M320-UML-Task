@@ -3,7 +3,7 @@ using PirateApp;
 
 namespace PirateApp
 {
-    public class Pirate : IMovable
+    public class Pirate
     {
         public string Name { get; set; }
         public bool HasEyePatch { get; set; }
